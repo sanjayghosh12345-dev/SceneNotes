@@ -1,0 +1,27 @@
+{
+  "name": "scenenotes-lite",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4",
+    "@tiptap/extension-highlight": "^3.4.4",
+    "@tiptap/extension-history": "^3.4.4",
+    "@tiptap/extension-placeholder": "^3.4.4",
+    "@tiptap/react": "^3.4.4",
+    "@tiptap/starter-kit": "^3.4.4",
+    "next": "14.2.5",
+    "openai": "^5.22.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "@types/react": "19.1.13",
+    "typescript": "5.9.2"
+  }
+}
